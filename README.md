@@ -4,17 +4,28 @@ This example is beginner - friendly and showcases how to create, modify, and man
 
 ## Features
 -Create an empty list
+
 -Append and insert elements
+
 -Extend lists with additional elements 
--Remove the last element 
+
+-Remove the last element
+
 -Sort a list in ascending order
+
 -Retrieve the index of a specific value
 
 ## Usage
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/ryankoigi-dev/python-list-operations.git
+  ```
 2.Navigate to the project directory:
   ```bash
   cd python-list-operations
-
+```
+3.Run the script:
+  ```bash
+  python list_operations.py
+```
+Enjoy your Coding!
